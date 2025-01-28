@@ -2,7 +2,10 @@
 
 ## Overview
 
-    The Arbitrary Precision Calculator (APC) is a powerful tool for performing arithmetic operations on very large numbers with precision beyond the typical limits of standard data types. This project demonstrates the implementation of fundamental arithmetic operations using **doubly linked lists** to handle numbers of arbitrary size.
+    The Arbitrary Precision Calculator (APC) is a powerful tool for performing arithmetic operations 
+    on very large numbers with precision beyond the typical limits of standard data types. 
+    This project demonstrates the implementation of fundamental arithmetic 
+    operations using **doubly linked lists** to handle numbers of arbitrary size.
 
 ## Features
 
